@@ -4,7 +4,7 @@ import requests
 from urllib import request, response
 BASE_URL ="https://api.openweathermap.org/data/2.5/weather?"
 
-API_KEY = "cd5840bdcf0ee94b04a861ab4dd8fc57"
+API_KEY = "OurKey"
 #print welcome message
 print("Welcome to WeatherMan's world")
 CITY = input("Enter city name: ")
